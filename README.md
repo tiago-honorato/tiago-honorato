@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hey there 👋</h1>
+  <h1> Hello World 👾</h1>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=e300df&width=435&lines=Olá!+Bem-vindo+ao+meu+perfil+no+GitHub!;Prazer%2C+meu+nome+%C3%A9+Tiago+Honorato.)](https://git.io/typing-svg)
@@ -10,10 +10,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-honorato&layout=compact&theme=radical"/>
 </div>
 
-# Linguagens:
+# Languages:
 <div style="display: inline_block"><br>
   <img align="center" alt="react" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="javascript" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+## Social media:
