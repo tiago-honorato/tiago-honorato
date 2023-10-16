@@ -1,5 +1,19 @@
-### Hi there 👋
+<div align="center">
+  <h1> Hey there 👋</h1>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiago-honorato&count_private=true&show_icons=true&theme=radical)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=e300df&width=435&lines=Olá!+Bem-vindo+ao+meu+perfil+no+GitHub!;Prazer%2C+meu+nome+%C3%A9+Tiago+Honorato.)](https://git.io/typing-svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-honorato&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/tiago-honorato">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiago-honorato&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-honorato&layout=compact&theme=radical"/>
+</div>
+
+# Linguagens:
+<div style="display: inline_block"><br>
+  <img align="center" alt="react" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="javascript" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
