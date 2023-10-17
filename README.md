@@ -20,4 +20,6 @@
 
 ## Social medias:
 
-<img href="https://www.linkedin.com/in/tiagohonoratom/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <img href="https://discord.com/users/316595876682268688" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> <img href="https://www.reddit.com/user/H1ruZ" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+<a href="https://www.linkedin.com/in/tiagohonoratom/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://discord.com/users/316595876682268688"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://www.reddit.com/user/H1ruZ"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
