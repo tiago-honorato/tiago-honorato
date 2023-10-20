@@ -2,7 +2,7 @@
   <h1> Hello World 👾</h1>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=e300df&width=435&lines=Olá!+Bem-vindo+ao+meu+perfil+no+GitHub!;Prazer%2C+meu+nome+%C3%A9+Tiago+Honorato.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=e300df&width=435&lines=Hey+there!+Welcome+to+my+GitHub+profile.;Nice+to+meet+ya%2C+my+name+is+Tiago+and+I'm+22yo.)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/tiago-honorato">
