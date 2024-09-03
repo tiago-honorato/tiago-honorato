@@ -10,14 +10,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-honorato&layout=compact&theme=radical"/>
 </div>
 
-# Languages:
+# Languages and tools:
 <div style="display: inline_block">
   <a href="https://www.java.com/pt-BR/"><img align="center" alt="java" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"></a>
   <a href="https://www.javascript.com"><img align="center" alt="javascript" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-  <a href="https://www.java.com/pt-BR/"><img align="center" alt="python" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"></a>
-  <a href="https://www.java.com/pt-BR/"><img align="center" alt="C" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"></a>
+  <a href="https://www.python.org/"><img align="center" alt="python" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"></a>
+  <a href="https://www.w3schools.com/c/c_intro.php"><img align="center" alt="C" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"></a>
   <a href="https://www.html.com"><img align="center" alt="HTML" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img align="center" alt="CSS" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+  <a href="https://www.docker.com/"><img align="center" alt="Docker" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"></a>
+  <a href="https://www.mysql.com/"><img align="center" alt="Docker" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"></a>
 </div>
 
 ## Social medias:
