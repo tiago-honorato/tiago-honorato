@@ -6,7 +6,6 @@
 
 <div align="center">
   <a href="https://github.com/tiago-honorato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiago-honorato&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-honorato&layout=compact&theme=radical&hide=TeX,PowerShell,Batchfile&langs_count=6"/>
 </div>
 
