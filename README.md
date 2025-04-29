@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/tiago-honorato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-honorato&layout=compact&theme=radical&hide=TeX, PowerShell, ShaderLab, ASP.NET, HLSL, Batchfile&langs_count=6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-honorato&layout=compact&theme=radical&hide=TeX,PowerShell,ASP.NET,ShaderLab,Batchfile&langs_count=6"/>
 </div>
 
 # Languages and tools:
